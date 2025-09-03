@@ -1,0 +1,72 @@
+// ----------------------------------------------------------------
+	// Forms
+// -----------------------------------------------------------------
+
+form {
+	margin-top: 2rem;
+
+	.form-group {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 2rem;
+
+		label {
+			display: flex;
+			margin-bottom: 0.5rem;
+			font-size: 1rem;
+			font-family: $sf-pro-text-semibold;
+			line-height: 0.7rem;
+			color: $ink;
+		}
+		.form-control {
+		    width: 100%;
+		    padding: 1.5rem 1.3rem;
+		    border: 1px solid $ice;
+		    border-radius: 0.5rem;
+		    font-size: 1rem;
+		    background: lighten($cub-scout-blue, 48%);
+		    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+		    box-sizing: border-box;
+
+			&:focus {
+				outline: none;
+				border-color: $cub-scout-blue;
+		    	background: $white;
+				box-shadow: 0 0 0 3px $cub-scout-blue;
+			}
+			&:disabled {
+				background: $white;
+				cursor: not-allowed;
+				opacity: 0.6;
+			}
+			&::placeholder {
+				color: lighten($cub-scout-blue, 20%);
+				font-size: 0.9rem;
+			}
+		}
+		.form-helper-text {
+			display: flex;
+			margin-top: 0.5rem;
+			font-size: 0.9rem;
+			font-family: $sf-pro-text-regular;
+			line-height: 0.7rem;
+		    color: $slate;
+		}
+	}
+	.error-message {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 1rem;
+		padding: 1.2rem 1rem;
+		background: lighten($roasted, 25%);
+		border-radius: 1rem;
+
+		span {
+			text-align: center;
+			font-family: $sf-pro-text-regular;
+			line-height: normal;
+			color: darken($roasted, 35%);
+			font-size: 0.9rem;
+		}
+	}
+}

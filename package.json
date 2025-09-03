@@ -1,0 +1,26 @@
+{
+  "name": "pack-280-dstx-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "serve": "vite preview",
+    "build-dev": "vite build --mode development",
+    "build": "vite build",
+    "lint": "vite lint"
+  },
+  "dependencies": {
+    "@unhead/vue": "^1.11.18",
+    "@vueuse/core": "^9.8.2",
+    "bootstrap": "^4.6.2",
+    "core-js": "^3.26.1",
+    "vue": "^3.2.45",
+    "vue-router": "4.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.57.1",
+    "vite": "^4.0.2"
+  }
+}

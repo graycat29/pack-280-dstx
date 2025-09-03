@@ -1,0 +1,87 @@
+// ----------------------------------------------------------------
+	// Variables
+// -----------------------------------------------------------------
+
+
+// Colors
+
+$cub-scout-blue: #22548f;
+$cub-scout-gold: #f4c347;
+
+$white: #FFFFFF;
+$black: #000000;
+$ink: #15181d;
+$abyss: #1c2026;
+$coal: #182c4b;
+$charcoal: #2e353b;
+$manta: #343b42;
+$shark: #3a424a;
+$slate: #656a77;
+$ice: #bdcae3;
+$sky: #bfc8d3;
+$powder: #bdcae3;
+$dark-water: #1c2b3e;
+$purple: #4f44ff;
+$macos-light: #3696ff;
+$plum: #2d0a6d;
+$lavender: #89609e;
+$roasted: #ff6565;
+$currency: #61bd4f;
+$blue-green: #1f2d35;
+$neon-green: #b0eb00;
+$bright-blue: #6ab5c8;
+$intense-blue: #5ecacb;
+$dark-bg: lighten($ink, 2%);
+$light-bg: lighten($powder, 14%);
+$light-bg-bottom: lighten($powder, 12%);
+
+
+// Font Families
+
+$sf-pro-display-regular: "sfProDisplayRegular","Helvetica Neue","Helvetica","Arial",sans-serif;
+$sf-pro-display-semibold: "sfProDisplaySemibold","Helvetica Neue","Helvetica","Arial",sans-serif;
+$sf-pro-display-bold: "sfProDisplayBold","Helvetica Neue","Helvetica","Arial",sans-serif;
+$sf-pro-text-light: "sfProTextLight","Helvetica Neue","Helvetica","Arial",sans-serif;
+$sf-pro-text-regular: "sfProTextRegular","Helvetica Neue","Helvetica","Arial",sans-serif;
+$sf-pro-text-semibold: "sfProTextSemibold","Helvetica Neue","Helvetica","Arial",sans-serif;
+$sf-pro-text-bold: "sfProTextBold","Helvetica Neue","Helvetica","Arial",sans-serif;
+$mono-text: "Lucida Console", Monaco, monospace;
+
+
+// Media Breakpoints
+
+$media-400: 400px;
+$media-500: 500px;
+$media-576: 576px;
+$media-600: 600px;
+$media-767: 767px;
+$media-768: 768px;
+$media-800: 800px;
+$media-801: 801px;
+$media-900: 900px;
+$media-950: 950px;
+$media-991: 991px;
+$media-992: 992px;
+$media-1000: 1000px;
+$media-1200: 1200px;
+$media-1300: 1300px;
+$media-1500: 1500px;
+$media-1600: 1600px;
+$media-1800: 1800px;
+$media-2100: 2100px;
+
+
+// Animations
+
+$ease-in-duration-slow: .35s;
+$ease-in-timing-function-slow: cubic-bezier(0.0, 0.0, 0.2, 1);
+$ease-out-duration-slow: .35s;
+$ease-out-timing-function-slow: cubic-bezier(0.4, 0.0, 1, 1);
+$ease-in-duration-medium: .15s;
+$ease-in-timing-function-medium: cubic-bezier(0.0, 0.0, 0.2, 1);
+$ease-out-duration-medium: .15s;
+$ease-out-timing-function-medium: cubic-bezier(0.4, 0.0, 1, 1);
+$ease-in-duration-fast: .11s;
+$ease-in-timing-function-fast: cubic-bezier(0.0, 0.0, 0.2, 1);
+$ease-out-duration-fast: .1s;
+$ease-out-timing-function-fast: cubic-bezier(0.4, 0.0, 1, 1);
