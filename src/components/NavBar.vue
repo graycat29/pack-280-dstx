@@ -2,7 +2,10 @@
 	<div class="container-fluid navigation" id="navigation" :class="{ 'active': showNavbar }">
 		<div class="container">
 			<router-link to="/" class="link" :class="{ 'active': $route.name === 'home' }">Home</router-link>
+			<router-link to="/history" class="link" :class="{ 'active': $route.name === 'history' }">History</router-link>
 			<router-link to="/faq" class="link" :class="{ 'active': $route.name === 'faq' }">FAQ</router-link>
+			<router-link to="/fod" class="link" :class="{ 'active': $route.name === 'fod' }">FOD</router-link>
+			<router-link to="/resources" class="link" :class="{ 'active': $route.name === 'resources' }">Resources</router-link>
 		</div>
 	</div>
 </template>

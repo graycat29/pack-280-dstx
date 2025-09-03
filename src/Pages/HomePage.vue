@@ -46,42 +46,38 @@
 		
 		
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">What Scouting Is All About</div>
 						<div class="description">Cub Scouting is where adventure, learning, and family come together. Boys in grades K-5 join age-based “dens,” each with their own activities and achievements. Along the way, Scouts learn practical skills, responsibility, and leadership while having fun with friends. What makes Cub Scouts unique is that it's family-oriented—parents, siblings, and grandparents are always welcome to join in the fun, from den meetings to campouts under the Texas stars.</div>
 					</div>
 				</div>
-				<div class="row align-items-start">
+				<!-- <div class="row align-items-start">
 					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section dark-bg fire-bg">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">About Pack 280</div>
 						<div class="description">Pack 280 is unique to be the only all-boys Cub Scout pack in the area. For families looking for other options, there are also all-girl and mixed packs nearby—but 280 offers a traditional, boy-focused experience with strong leadership, close friendships, and a strong sense of camaraderie.</div>
-						<div class="info">
-							<div class="label-line"></div>
-							<div class="subtitle">Things <span>are here</span> and another thing is written here and another thing is written here and another thing is written here.</div>
-						</div>
+						<router-link class="button red" to="/history">Read about our history</router-link>
 					</div>
-				</div>
-				<div class="row align-items-start">
-					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
 				</div>
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">What Scouts Get To Do</div>
@@ -130,70 +126,59 @@
 						</div>
 					</div>
 				</div>
-				<div class="row align-items-start">
-					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
-				</div>
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section light-bg">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Cost & Commitment</div>
-						<div class="description">Scouting is an investment in adventure and growth, but we work to keep it affordable. Annual dues cover registration and program costs, with optional subscriptions like Scout Life magazine. Uniforms are required, but many families donate gently used gear so younger Scouts can “age up” without extra expense. Some special trips and high-adventure camps may have additional fees.
-							Time-wise, families can expect one monthly pack meeting (1-1.5 hours), about two den meetings per month (1-1.5 hours each), plus one big campout or event monthly. Throughout the year, Scouts also get to join special community events like the Founders Day parade and Flags Over Dripping.</div>
-						<div class="info">
-							<div class="label-line"></div>
-							<div class="subtitle">Things <span>are here</span> and another thing is written here and another thing is written here and another thing is written here.</div>
-						</div>
+						<div class="description">Scouting is an investment in adventure and growth, but we work to keep it affordable. Annual dues cover registration and program costs, with optional subscriptions like Scout Life magazine. Uniforms are required, but many families donate gently used gear so younger Scouts can “age up” without extra expense. Some special trips and high-adventure camps may have additional fees. Time-wise, families can expect one monthly pack meeting (1-1.5 hours), about two den meetings per month (1-1.5 hours each), plus one big campout or event monthly. Throughout the year, Scouts also get to join special community events like the Founders Day parade and Flags Over Dripping.</div>
+						<router-link class="button blue" to="/faq">See FAQ for more</router-link>
 					</div>
-				</div>
-				<div class="row align-items-start">
-					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
 				</div>
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Parent Involvement</div>
-						<div class="description">Cub Scouting is a family-centered program—it simply doesn’t work without the energy and support of our parents. Whether it’s helping lead a den, pitching in at campouts, or volunteering for events, every parent has a role to play. The more families get involved, the richer the experience is for the Scouts. Our pack thrives because moms, dads, and grandparents jump in and make the adventure possible.</div>
+						<div class="description">Cub Scouting is a family-centered program—it simply doesn't work without the energy and support of our parents. Whether it's helping lead a den, pitching in at campouts, or volunteering for events, every parent has a role to play. The more families get involved, the richer the experience is for the Scouts. Our pack thrives because moms, dads, and grandparents jump in and make the adventure possible.</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section dark-bg founders-bg">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Flags Over Dripping</div>
-						<div class="description">asdf</div>
-						<div class="info">
-							<div class="label-line"></div>
-							<div class="subtitle">asdf</div>
-						</div>
+						<div class="description">Instead of selling popcorn, our pack proudly participates in Flags Over Dripping (FOD), a
+							community flag service that raises the funds we need to run our program all year.</div>
+						<router-link class="button blue" to="/fod">Learn more</router-link>
 					</div>
-				</div>
-				<div class="row align-items-start">
-					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
 				</div>
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">The Path to Eagle Scout</div>
-						<div class="description">Cub Scouting is just the beginning of a journey that can lead to great things. Many Scouts continue on to earn the rank of Eagle Scout—an accomplishment achieved by only about 6% of Scouts nationwide. Eagle Scouts often earn special recognition: some colleges award scholarships or credit, and the U.S. military offers Eagle Scouts the chance to enlist at a higher rank. Did you know that more than half of all astronauts were Scouts? Or that U.S. presidents like John F. Kennedy, Gerald Ford, and George W. Bush were involved in Scouting? In Pack 280, many of our dads are Eagle Scouts too—proof that Scouting builds lifelong character and leadership.</div>
+						<div class="description">Cub Scouting is just the beginning of a journey that can lead to great things. Many Scouts continue on to earn the rank of Eagle Scout—an accomplishment achieved by only about 6% of Scouts nationwide. Eagle Scouts often earn special recognition: some colleges award scholarships or credit, and the U.S. military offers Eagle Scouts the chance to enlist at a higher rank. Did you know that about two-thirds of all astronauts were Scouts and 39 of them made Eagle Scout? Or that U.S. presidents like John F. Kennedy, Gerald Ford, and George W. Bush were involved in Scouting? In Pack 280, many of our dads are Eagle Scouts too—proof that Scouting builds lifelong character and leadership.</div>
 					</div>
 				</div>
 				<div class="row align-items-start">
@@ -202,17 +187,15 @@
 			</div>
 		</div>
 
+
 		<!-- Section -->
-		<div class="container-fluid section">
-			<div class="container">
+		<div class="container-fluid">
+			<div class="container section dark-bg">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Resources</div>
-						<div class="description">asdf</div>
-						<div class="info">
-							<div class="label-line"></div>
-							<div class="subtitle">asdf</div>
-						</div>
+						<div class="description">Need forms? More information? Check out our resources page for everything you need.</div>
+						<div class="button gold">All Resources</div>
 					</div>
 				</div>
 				<div class="row align-items-start">

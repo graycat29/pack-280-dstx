@@ -15,6 +15,21 @@ ul {
         &:last-child {
             margin-bottom: 0 !important;
         }
+
+        span {
+            display: block;
+        }
+        span:nth-child(1) {
+            font-family: $sf-pro-text-bold;
+        }
+        a {
+            font-family: $sf-pro-text-regular;
+            color: $charcoal;
+
+            &:hover {
+                color: $cub-scout-blue;
+            }
+        }
     }
     &.bar {
         padding-left: 1rem;

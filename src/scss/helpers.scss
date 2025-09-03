@@ -140,6 +140,37 @@ img {
         color: $cub-scout-blue !important;
     }
 }
+.cub-scout-blue-bg {
+	background: linear-gradient(
+		to bottom,
+		lighten($cub-scout-blue, 55%),
+		lighten($cub-scout-blue, 45%)
+	);
+	
+	.title {
+        color: darken($cub-scout-blue, 20%) !important;;
+    }
+    .description {
+        color: darken($cub-scout-blue, 20%) !important;
+    }
+}
+.cub-scout-red-bg {
+	background: linear-gradient(
+		to bottom,
+		darken($cub-scout-blue, 5%),
+		darken($cub-scout-red, 5%)
+	);
+
+	.title {
+        color: $white !important;
+    }
+	.subtitle {
+        color: $white !important;
+    }
+	.description {
+        color: $white !important;
+    }
+}
 .blue-green {
 	.title {
         color: $blue-green !important;;
