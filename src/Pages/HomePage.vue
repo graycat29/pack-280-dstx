@@ -68,7 +68,7 @@
 					<div class="col-lg-12">
 						<div class="title">About Pack 280</div>
 						<div class="description">Pack 280 is unique to be the only all-boys Cub Scout pack in the area. For families looking for other options, there are also all-girl and mixed packs nearby—but 280 offers a traditional, boy-focused experience with strong leadership, close friendships, and a strong sense of camaraderie.</div>
-						<router-link class="button red" to="/history">Read about our history</router-link>
+						<router-link class="button red" to="/history">Read About Our History</router-link>
 					</div>
 				</div>
 			</div>
@@ -137,7 +137,7 @@
 					<div class="col-lg-12">
 						<div class="title">Cost & Commitment</div>
 						<div class="description">Scouting is an investment in adventure and growth, but we work to keep it affordable. Annual dues cover registration and program costs, with optional subscriptions like Scout Life magazine. Uniforms are required, but many families donate gently used gear so younger Scouts can “age up” without extra expense. Some special trips and high-adventure camps may have additional fees. Time-wise, families can expect one monthly pack meeting (1-1.5 hours), about two den meetings per month (1-1.5 hours each), plus one big campout or event monthly. Throughout the year, Scouts also get to join special community events like the Founders Day parade and Flags Over Dripping.</div>
-						<router-link class="button blue" to="/faq">See FAQ for more</router-link>
+						<router-link class="button blue" to="/faq">See FAQ For More</router-link>
 					</div>
 				</div>
 			</div>
@@ -159,13 +159,13 @@
 
 		<!-- Section -->
 		<div class="container-fluid">
-			<div class="container section dark-bg founders-bg">
+			<div class="container section dark-bg flags-bg">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Flags Over Dripping</div>
 						<div class="description">Instead of selling popcorn, our pack proudly participates in Flags Over Dripping (FOD), a
 							community flag service that raises the funds we need to run our program all year.</div>
-						<router-link class="button blue" to="/fod">Learn more</router-link>
+						<router-link class="button blue" to="/fod">Learn More</router-link>
 					</div>
 				</div>
 			</div>
@@ -190,7 +190,7 @@
 
 		<!-- Section -->
 		<div class="container-fluid">
-			<div class="container section dark-bg">
+			<div class="container section dark-bg founders-bg">
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Resources</div>
@@ -200,6 +200,19 @@
 				</div>
 				<div class="row align-items-start">
 					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- Section -->
+		<div class="container-fluid">
+			<div class="container section">
+				<div class="row align-center">
+					<div class="col-lg-12">
+						<div class="title">Contact Us</div>
+						<div class="description"><a href="mailto:pack280ds@gmail.com">pack280ds@gmail.com</a></div>
+					</div>
 				</div>
 			</div>
 		</div>

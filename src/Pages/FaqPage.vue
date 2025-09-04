@@ -86,16 +86,19 @@
 											<ul>
 												<li>
 													<span>Pack 4</span>
+													<!-- <span>asdf</span> -->
 													<span>Rooster Springs, Sycamore Springs, and Cypress Springs Elementary Schools</span>
 													<span><a href="mailto:pack4ds@gmail.com" target="_blank">pack4ds@gmail.com</a></span>
 												</li>
 												<li>
 													<span>Pack 101</span>
+													<!-- <span>asdf</span> -->
 													<span>Wildwood Springs and Dripping Springs Elementary Schools</span>
 													<span><a href="mailto:info.pack101ds@gmail.com" target="_blank">info.pack101ds@gmail.com</a></span>
 												</li>
 												<li>
 													<span>Pack 1826</span>
+													<!-- <span>asdf</span> -->
 													<span>Driftwood area</span>
 													<span><a href="mailto:scouting@pack1836.com" target="_blank">scouting@pack1836.com</a></span>
 												</li>
