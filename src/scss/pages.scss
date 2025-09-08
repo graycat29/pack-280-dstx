@@ -287,6 +287,58 @@
                 }
             }
         }
+        &.content {
+            padding: 3rem;
+            margin-bottom: 0;
+
+            .row {
+                justify-content: center;
+
+                .title {
+                    font-family: $sf-pro-display-semibold;
+                    font-size: 1.6rem;
+                    line-height: 1.8rem;
+                    color: $black;
+                    max-width: 100%;
+                    margin: 0 0 1.5rem;
+    
+                    @media(min-width: $media-768) {
+                        max-width: 30rem;
+                    }
+                    @media(min-width: $media-992) {
+                        max-width: 58rem;
+                        font-size: 2.4rem;
+                        line-height: 2.2rem;
+                    }
+                    @media(min-width: $media-1200) {
+                        font-size: 2.4rem;
+                        line-height: 2.2rem;
+                    }
+                }
+                .description {
+                    font-size: 1rem;
+                    line-height: 1.4rem;
+                    color: $black;
+                    max-width: 100%;
+                    font-family: $sf-pro-text-regular;
+
+                    @media(min-width: $media-768) {
+                        max-width: 30rem;
+                    }
+                    @media(min-width: $media-992) {
+                        max-width: 58rem;
+                        font-size: 1.2rem;
+                        line-height: 1.5rem;
+                    }
+                }
+                img {
+                    margin-top: 2rem;
+                    margin-bottom: 2rem;
+                    border-radius: 1rem;
+                }
+            }
+            
+        }
         .row {
             align-items: flex-start;
 
