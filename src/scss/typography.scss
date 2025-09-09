@@ -143,14 +143,13 @@ a {
         border: 0.05rem solid $cub-scout-gold;
     }
     &.cub-scout-gold-darken {
-        color: darken($cub-scout-gold, 40%);
-        background-color: $cub-scout-gold;
+        background-color: darken($cub-scout-gold, 20%);
     }
     &.plum {
         background: $plum;
     }
     &.currency {
-        background: $currency;
+        background: darken($currency, 10%);
     }
     &.cub-scout-blue {
         background: $cub-scout-blue;

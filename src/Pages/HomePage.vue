@@ -181,9 +181,6 @@
 						<div class="description">Cub Scouting is just the beginning of a journey that can lead to great things. Many Scouts continue on to earn the rank of Eagle Scout—an accomplishment achieved by only about 6% of Scouts nationwide. Eagle Scouts often earn special recognition: some colleges award scholarships or credit, and the U.S. military offers Eagle Scouts the chance to enlist at a higher rank. Did you know that about two-thirds of all astronauts were Scouts and 39 of them made Eagle Scout? Or that U.S. presidents like John F. Kennedy, Gerald Ford, and George W. Bush were involved in Scouting? In Pack 280, many of our dads are Eagle Scouts too—proof that Scouting builds lifelong character and leadership.</div>
 					</div>
 				</div>
-				<div class="row align-items-start">
-					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
-				</div>
 			</div>
 		</div>
 
@@ -197,9 +194,6 @@
 						<div class="description">Need forms? More information? Check out our resources page for everything you need.</div>
 						<div class="button gold">All Resources</div>
 					</div>
-				</div>
-				<div class="row align-items-start">
-					<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3"></div>
 				</div>
 			</div>
 		</div>

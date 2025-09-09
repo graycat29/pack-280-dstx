@@ -2,7 +2,7 @@
 	
 	<div class="page" id="FaqPage">
 		
-		<div class="container-fluid">
+		<div class="container-fluid sub-page">
 			<div class="container content">
 				<div class="row">
 					<div class="col-12">
