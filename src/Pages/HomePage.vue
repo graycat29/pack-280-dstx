@@ -231,14 +231,12 @@ import mainImage5 from '@/assets/home/main-image-5.jpg'
 import mainImage6 from '@/assets/home/main-image-6.jpg'
 import mainImage7 from '@/assets/home/main-image-7.jpg'
 import mainImage8 from '@/assets/home/main-image-8.jpg'
-import mainImage9 from '@/assets/home/main-image-9.jpg'
 import mainImage10 from '@/assets/home/main-image-10.jpg'
 import mainImage11 from '@/assets/home/main-image-11.jpg'
 import mainImage12 from '@/assets/home/main-image-12.jpg'
 import mainImage13 from '@/assets/home/main-image-13.jpg'
 import mainImage14 from '@/assets/home/main-image-14.jpg'
 import mainImage15 from '@/assets/home/main-image-15.jpg'
-import mainImage16 from '@/assets/home/main-image-16.jpg'
 import mainImage17 from '@/assets/home/main-image-17.jpg'
 import mainImage18 from '@/assets/home/main-image-18.jpg'
 import mainImage19 from '@/assets/home/main-image-19.jpg'
@@ -256,26 +254,24 @@ export default ({
 		// Carousel images with imported image paths
 		const carouselImages = ref([
 			{ src: mainImage1, alt: 'Cub Scout Pack 280 Image 1' },
-			{ src: mainImage5, alt: 'Cub Scout Pack 280 Image 5' },
+			// { src: mainImage5, alt: 'Cub Scout Pack 280 Image 5' },
 			{ src: mainImage17, alt: 'Cub Scout Pack 280 Image 17' },
-			{ src: mainImage18, alt: 'Cub Scout Pack 280 Image 18' },
+			// { src: mainImage18, alt: 'Cub Scout Pack 280 Image 18' },
 			{ src: mainImage10, alt: 'Cub Scout Pack 280 Image 10' },
 			{ src: mainImage12, alt: 'Cub Scout Pack 280 Image 12' },
-			{ src: mainImage2, alt: 'Cub Scout Pack 280 Image 2' },
-			{ src: mainImage4, alt: 'Cub Scout Pack 280 Image 4' },
+			// { src: mainImage2, alt: 'Cub Scout Pack 280 Image 2' },
+			// { src: mainImage4, alt: 'Cub Scout Pack 280 Image 4' },
 			{ src: mainImage6, alt: 'Cub Scout Pack 280 Image 6' },
-			{ src: mainImage7, alt: 'Cub Scout Pack 280 Image 7' },
-			// { src: mainImage9, alt: 'Cub Scout Pack 280 Image 9' },
-			{ src: mainImage13, alt: 'Cub Scout Pack 280 Image 13' },
+			// { src: mainImage7, alt: 'Cub Scout Pack 280 Image 7' },
+			// { src: mainImage13, alt: 'Cub Scout Pack 280 Image 13' },
 			{ src: mainImage11, alt: 'Cub Scout Pack 280 Image 11' },
 			{ src: mainImage14, alt: 'Cub Scout Pack 280 Image 14' },
-			{ src: mainImage19, alt: 'Cub Scout Pack 280 Image 19' },
+			// { src: mainImage19, alt: 'Cub Scout Pack 280 Image 19' },
 			{ src: mainImage15, alt: 'Cub Scout Pack 280 Image 15' },
-			// { src: mainImage16, alt: 'Cub Scout Pack 280 Image 16' },
 			{ src: mainImage3, alt: 'Cub Scout Pack 280 Image 3' },
 			{ src: mainImage22, alt: 'Cub Scout Pack 280 Image 22' },
 			{ src: mainImage20, alt: 'Cub Scout Pack 280 Image 20' },
-			{ src: mainImage21, alt: 'Cub Scout Pack 280 Image 21' },
+			// { src: mainImage21, alt: 'Cub Scout Pack 280 Image 21' },
 			{ src: mainImage8, alt: 'Cub Scout Pack 280 Image 8' }
 		])
 
