@@ -32,12 +32,15 @@
 		<div class="container-fluid">
 			<div class="container section sub-page photo-grid">
 				<div class="row align-center">
-					<div class="col-12 col-sm-6 col-md-4 offset-md-2">
+					<div class="col-12 col-sm-6 offset-sm-3 col-md-4 offset-md-4">
+						<img src="@/assets/fod/fod-post.jpg" alt="Flags Over Dripping - Posting Flag" class="activity-img">
+					</div>
+					<!-- <div class="col-12 col-sm-6 col-md-4 offset-md-2">
 						<img src="@/assets/fod/fod-post.jpg" alt="Flags Over Dripping - Posting Flag" class="activity-img">
 					</div>
 					<div class="col-12 col-sm-6 col-md-4">
 						<img src="@/assets/fod/fod-pledge.jpg" alt="Flags Over Dripping - Pledge of Allegiance" class="activity-img">
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
