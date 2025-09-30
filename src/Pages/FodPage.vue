@@ -22,7 +22,7 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">What Is Flags Over Dripping?</div>
-						<div class="description">Instead of selling popcorn, our Pack proudly participates in Flags Over Dripping, a community flag service that raises the funds we need to run our program all year. Here's how it works: on major holidays, we place American flags in the yards of local residents and businesses who subscribe to the service. It's a meaningfulway to show community pride and keep our Scouts active and visible in Dripping Springs.</div>
+						<div class="description">Instead of selling popcorn, our Pack proudly participates in Flags Over Dripping, a community flag service that raises the funds we need to run our program all year. Here's how it works: on major holidays, we place American flags in the yards of local residents and businesses who subscribe to the service. It's a meaningfulway to show community pride and keep our Scouts active and visible in Dripping Springs. When someone joins, they're not just getting a flag, they're helping shape the next generation of leaders in Dripping Springs.</div>
 					</div>
 				</div>
 			</div>
@@ -48,10 +48,31 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">Why This Matters</div>
-						<div class="description">
-							<p>It pays for campouts, supplies, badges, awards, and fun events.</p>
-							<p>It means no door-to-door selling or extra fundraisers.</p>
-							<p>It teaches Scouts the value of service and responsibility.</p>
+						<div class="row align-center">
+							<div class="col-12 col-sm-6 col-md-3">
+								<div class="description description-bg">
+									<p class="sub-title">Builds Character</p>
+									<p>Funds campouts, badges, and programs that teach teamwork, leadership, and problem-solving skills.</p>
+								</div>
+							</div>
+							<div class="col-12 col-sm-6 col-md-3">
+								<div class="description description-bg">
+									<p class="sub-title">Keeps Kids Active</p>
+									<p>Covers the costs of activities that get Scouts outdoors and off their screens.</p>
+								</div>
+							</div>
+							<div class="col-12 col-sm-6 col-md-3">
+								<div class="description description-bg">
+									<p class="sub-title">Teaches Responsibility</p>
+									<p>Gives Scouts real-world opportunities to serve their community.</p>
+								</div>
+							</div>
+							<div class="col-12 col-sm-6 col-md-3">
+								<div class="description description-bg">
+									<p class="sub-title">Simplifies Fundraising</p>
+									<p>Replaces door-to-door sales with a program that everyone can feel good about.</p>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
