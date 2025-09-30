@@ -22,7 +22,7 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">What Is Flags Over Dripping?</div>
-						<div class="description">Instead of selling popcorn, our Pack proudly participates in Flags Over Dripping, a community flag service that raises the funds we need to run our program all year. Here's how it works: on major holidays, we place American flags in the yards of local residents and businesses who subscribe to the service. It's a meaningfulway to show community pride and keep our Scouts active and visible in Dripping Springs. When someone joins, they're not just getting a flag, they're helping shape the next generation of leaders in Dripping Springs.</div>
+						<div class="description">Instead of selling popcorn, our Pack proudly participates in Flags Over Dripping, a community flag service that raises the funds we need to run our program all year. Here's how it works: on major holidays, we place American flags in the yards of local residents and businesses who subscribe to the service. It's a meaningfulway to show community pride and keep our Scouts active and visible in Dripping Springs. When a local resident subscribes, they're not just getting a flag, they're helping shape the next generation of leaders in Dripping Springs.</div>
 					</div>
 				</div>
 			</div>

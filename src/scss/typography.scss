@@ -143,7 +143,8 @@ a {
         border: 0.05rem solid $cub-scout-gold;
     }
     &.cub-scout-gold-darken {
-        background-color: darken($cub-scout-gold, 20%);
+        color: darken($cub-scout-gold, 50%);
+        background: $cub-scout-gold;
     }
     &.plum {
         background: $plum;
@@ -153,6 +154,9 @@ a {
     }
     &.cub-scout-blue {
         background: $cub-scout-blue;
+    }
+    &.cub-scout-red {
+        background: $cub-scout-red;
     }
     &.roasted {
         background: $roasted;

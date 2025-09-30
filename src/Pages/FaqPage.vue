@@ -81,7 +81,7 @@
 
 									<div class="paragraph-title">What are the other packs in the area?</div>
 									<div class="paragraph-description">
-										<p>If you are looking for an all-girl or mixed-gender pack, you might want to check out the following packs:</p>
+										<!-- <p>If you are looking for an all-girl or mixed-gender pack, you might want to check out the following packs:</p> -->
 										<p>
 											<ul>
 												<li>
@@ -142,7 +142,91 @@
 									<div class="paragraph-description">
 										<p>This is the answer.</p>
 									</div>
-																		
+
+
+									<!-- FOD -->
+									<div class="label cub-scout-red">FLAGS OVER DIPPING</div>
+							
+									<div class="paragraph-title">What is the cost to join Flags Over Dripping?</div>
+									<div class="paragraph-description">
+										<p>For just $75 per year, you'll receive a proudly displayed 3' x 5' American flag mounted on a 10' lighted pole, placed at your curb for eight major patriotic holidays:</p>
+										<p>
+											<ul>
+												<li>
+													<span>November 11, 2025</span>
+													<span>Veterans Day</span>
+												</li>
+												<li>
+													<span>January 19, 2026</span>
+													<span>MLK Day</span>
+												</li>
+												<li>
+													<span>February 16, 2026</span>
+													<span>Presidents Day</span>
+												</li>
+												<li>
+													<span>May 25, 2026</span>
+													<span>Memorial Day</span>
+												</li>
+												<li>
+													<span>June 14, 2026</span>
+													<span>Flag Day</span>
+												</li>
+												<li>
+													<span>June 19, 2026</span>
+													<span>Juneteenth</span>
+												</li>
+												<li>
+													<span>July 4, 2026</span>
+													<span>Independence Day</span>
+												</li>
+											</ul>
+										</p>
+									</div>
+									
+									<div class="paragraph-title">How does Flags Over Dripping work?</div>
+									<div class="paragraph-description">
+										<ul>
+											<li>A metal sleeve will be installed near your curb, flush with the ground, to hold the flagpole securely.</li>
+											<li>Our Cub Scouts and volunteers will handle flag delivery, setup, and removal for each holiday.</li>
+											<li>Flags will be placed in the days prior to and removed no later than 48 hours after the holiday - no work on your part!</li>
+										</ul>
+									</div>
+									
+									<div class="paragraph-title">How do I join Flags Over Dripping?</div>
+									<div class="paragraph-description">
+										<p>1. Send us the following information to <a href="mailto:pack280ds@gmail.com" target="_blank">pack280ds@gmail.com</a></p>
+										<p>
+											<ul>
+												<li>Name</li>
+												<li>Neighborhood</li>
+												<li>PhysicalAddress</li>
+												<li>Email Address</li>
+												<li>Phone Number</li>
+												<li>Amount Paid</li>
+												<li>Date</li>
+											</ul>
+										</p>
+										
+										<p>2. Send your payment via Venmo or PayPal. (If paying via PayPal, please add $3.38 to cover PayPal fees.)</p>
+										<p>
+											<ul>
+												<li>Venmo: @pack280</li>
+												<li>PayPal: <a href="https://paypal.me/CubScoutsPack280?locale.x=en_US" target="_blank">https://paypal.me/CubScoutsPack280?locale.x=en_US</a></li>
+											</ul>
+										</p>
+									</div>
+
+									<div class="paragraph-title">Who do I contact if I have questions?</div>
+									<div class="paragraph-description">
+										<p>
+											<ul>
+												<li>Contact: Phoenix Hudson Duff</li>
+												<li>Email: <a href="mailto:pack280ds@gmail.com" target="_blank">pack280ds@gmail.com</a></li>
+												<li>Text: 801-550-2485</li>
+											</ul>
+										</p>
+									</div>
 									
 								</div>
 							</div>

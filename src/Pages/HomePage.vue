@@ -207,7 +207,7 @@
 					<div class="col-lg-12">
 						<div class="title">Resources</div>
 						<div class="description">Need forms? More information? Check out our resources page for everything you need.</div>
-						<div class="button gold">All Resources</div>
+						<router-link class="button gold" to="/resources">All Resources</router-link>
 					</div>
 				</div>
 			</div>
