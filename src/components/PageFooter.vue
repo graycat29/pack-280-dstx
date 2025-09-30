@@ -17,6 +17,9 @@
 					<a class="link" href="mailto:pack280ds@gmail.com">pack280ds@gmail.com</a>
 				</div>
 				<div class="copyright">&copy; 2025 Cub Scout Pack 280 Dripping Springs, TX. Social icons by <a href="https://www.flaticon.com/" title="Flaticon" target="_blank">Flaticon</a>.</div>
+				<div class="logo-container">
+					<img src="@/assets/logo.png" alt="Cub Scout Pack 280 Logo" class="logo" />
+				</div>
 			</div>
 		</div>
 	</div>
