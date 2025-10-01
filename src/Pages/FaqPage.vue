@@ -109,7 +109,7 @@
 
 									<div class="paragraph-title">What is a Chartered Organization?</div>
 									<div class="paragraph-description">
-										<p>Every Cub Scout pack is sponsored by a community group called a Chartered Organization. This could be a church, school, service club, or other local group. The Chartered Organization provides a 'home' for the pack — usually a place to meet — and helps support the program by approving leaders and making sure the pack follows BSA guidelines. While families mostly interact with the pack's leaders, the Chartered Organization is the foundation that makes our pack possible.</p>
+										<p>Every Cub Scout pack is sponsored by a community group called a Chartered Organization. This could be a church, school, service club, or other local group. The Chartered Organization provides a 'home' for the pack—usually a place to meet—and helps support the program by approving leaders and making sure the pack follows BSA guidelines. While families mostly interact with the pack's leaders, the Chartered Organization is the foundation that makes our pack possible.</p>
 									</div>
 									
 									
@@ -127,12 +127,12 @@
 
 									<div class="paragraph-title">Do I need to buy a Scout handbook?</div>
 									<div class="paragraph-description">
-										<p>The Scout Handbook isn't technically required for a Cub Scout or Scout to participate in the program — you won't be turned away for not having one. However, it is highly recommended.</p>
+										<p>The Scout Handbook isn't technically required for a Cub Scout or Scout to participate in the program—you won't be turned away for not having one. However, it is highly recommended.</p>
 										<p>
 											<ul>
 												<li>Reference for Scouts: The handbook lays out all the requirements, adventures, and skills scouts need to work on at each rank. It's designed to be their personal guide, and many scouts enjoy checking things off as they progress.</li>
 												<li>Recordkeeping: It gives scouts a way to track their own progress and achievements, which helps build responsibility and pride in their accomplishments.</li>
-												<li>Consistency: The handbook ensures everyone is on the same page, literally — it's the official source for requirements and helps reduce confusion.</li>
+												<li>Consistency: The handbook ensures everyone is on the same page, literally—it's the official source for requirements and helps reduce confusion.</li>
 											</ul>
 										</p>
 										<p>That said, Den Leaders do use them regularly. Leaders often refer to the handbooks when planning activities, verifying requirements, and making sure the scouts are covering the right material. Even if a scout doesn't have their own copy, their leader will often reference it.</p>
@@ -173,7 +173,7 @@
 
 									<div class="paragraph-title">Do I need to supply my own gear?</div>
 									<div class="paragraph-description">
-										<p>For campouts, each Scout and their family should bring their own personal gear — such as a tent, sleeping pad, sleeping bag, mess kit, closed-toe shoes, rain gear, extra clothes, and the Scout "Six Essentials." These are the items that help keep each Scout comfortable and prepared. The pack takes care of the group needs like cooking equipment, campfire supplies, and shared materials, so families don't need to worry about bringing those.</p>
+										<p>For campouts, each Scout and their family should bring their own personal gear—such as a tent, sleeping pad, sleeping bag, mess kit, closed-toe shoes, rain gear, extra clothes, and the Scout "Six Essentials." These are the items that help keep each Scout comfortable and prepared. The pack takes care of the group needs like cooking equipment, campfire supplies, and shared materials, so families don't need to worry about bringing those.</p>
 									</div>
 
 									<div class="paragraph-title">What are the Scout "Six Essentials"?</div>

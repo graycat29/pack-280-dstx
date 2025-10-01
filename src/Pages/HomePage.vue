@@ -67,7 +67,7 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">About Pack 280</div>
-						<div class="description">Pack 280 is unique to be the only all-boys Cub Scout pack in the area. For families looking for other options, there are also all-girl and mixed packs nearby—but 280 offers a traditional, boy-focused experience with strong leadership, close friendships, and a strong sense of camaraderie.</div>
+						<div class="description">Pack 280 is unique to be the only all-boys Cub Scout pack in the area. For families looking for other options, there are also mixed-gender packs nearby—but 280 offers a traditional, boy-focused experience with strong leadership, close friendships, and a strong sense of camaraderie.</div>
 						<router-link class="button red" to="/history">Read About Our History</router-link>
 					</div>
 				</div>
