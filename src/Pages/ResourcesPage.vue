@@ -45,14 +45,14 @@
 						<div class="card">
 							<div class="title">Parental Consent / Liability Waiver for St. Martin de Porres</div>
 							<div class="description">Required by the church for us to use their facilities.</div>
-							<a class="button blue" href="" target="_blank">Download</a>
+							<a class="button blue" href="/downloads/SMdP-Pack-280-Parental-Consent.pdf" download="SMdP-Pack-280-Parental-Consent.pdf">Download</a>
 						</div>
 					</div>
 					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
 						<div class="card">
 							<div class="title">Photo & Video Release Form</div>
 							<div class="description">To give the pack permission to use your child's photo and/or video in pack digital media such as this webiste.</div>
-							<a class="button blue" href="" target="_blank">Download</a>
+							<a class="button blue" href="/downloads/photo-video-release-form.pdf" download="photo-video-release-form.pdf">Download</a>
 						</div>
 					</div>
 					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
