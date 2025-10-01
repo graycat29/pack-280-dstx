@@ -76,29 +76,40 @@
 
 									<div class="paragraph-title">What are the other packs in the area?</div>
 									<div class="paragraph-description">
-										<!-- <p>If you are looking for an all-girl or mixed-gender pack, you might want to check out the following packs:</p> -->
+										<p>If you are looking for a mixed-gender pack, you might want to check out the following packs:</p>
 										<p>
 											<ul>
 												<li>
 													<span>Pack 4</span>
-													<!-- <span>asdf</span> -->
-													<span>Rooster Springs, Sycamore Springs, and Cypress Springs Elementary Schools</span>
-													<span><a href="mailto:pack4ds@gmail.com" target="_blank">pack4ds@gmail.com</a></span>
+													<span>Primary Recruiting Area: Sycamore Springs Elementary School</span>
+													<span>Chartered Organization: American Legion Post 290</span>
+													<span>Contact: <a href="mailto:pack4ds@gmail.com" target="_blank">pack4ds@gmail.com</a></span>
 												</li>
 												<li>
 													<span>Pack 101</span>
-													<!-- <span>asdf</span> -->
-													<span>Wildwood Springs and Dripping Springs Elementary Schools</span>
-													<span><a href="mailto:info.pack101ds@gmail.com" target="_blank">info.pack101ds@gmail.com</a></span>
+													<span>Primary Recruiting Area: Wildwood Springs and Dripping Springs Elementary Schools</span>
+													<span>Chartered Organization: Dripping Springs Methodist Church</span>
+													<span>Contact: <a href="mailto:info.pack101ds@gmail.com" target="_blank">info.pack101ds@gmail.com</a></span>
 												</li>
 												<li>
-													<span>Pack 1826</span>
-													<!-- <span>asdf</span> -->
-													<span>Driftwood area</span>
-													<span><a href="mailto:scouting@pack1836.com" target="_blank">scouting@pack1836.com</a></span>
+													<span>Pack 328</span>
+													<span>Primary Recruiting Area: Rooster Springs Elementary School</span>
+													<span>Chartered Organization: Dripping Springs Presbytarian</span>
+													<span>Contact: <a href="mailto:pack328drip@gmail.com" target="_blank">pack328drip@gmail.com</a></span>
+												</li>
+												<li>
+													<span>Pack 1836</span>
+													<span>Primary Recruiting Area: Cypress Springs Elementary School</span>
+													<span>Chartered Organization: VFW Post 2933</span>
+													<span>Contact: <a href="mailto:scouting@pack1836.com" target="_blank">scouting@pack1836.com</a></span>
 												</li>
 											</ul>
 										</p>
+									</div>
+
+									<div class="paragraph-title">What is a Chartered Organization?</div>
+									<div class="paragraph-description">
+										<p>Every Cub Scout pack is sponsored by a community group called a Chartered Organization. This could be a church, school, service club, or other local group. The Chartered Organization provides a 'home' for the pack — usually a place to meet — and helps support the program by approving leaders and making sure the pack follows BSA guidelines. While families mostly interact with the pack's leaders, the Chartered Organization is the foundation that makes our pack possible.</p>
 									</div>
 									
 									
@@ -162,20 +173,20 @@
 
 									<div class="paragraph-title">Do I need to supply my own gear?</div>
 									<div class="paragraph-description">
-										<p>For campouts, each Scout and their family should bring their own personal gear — such as a tent, sleeping pad, sleeping bag, mess kit, extra clothes, and the Scout "Six Essentials." These are the items that help keep each Scout comfortable and prepared. The pack takes care of the group needs like cooking equipment, campfire supplies, and shared materials, so families don't need to worry about bringing those.</p>
+										<p>For campouts, each Scout and their family should bring their own personal gear — such as a tent, sleeping pad, sleeping bag, mess kit, closed-toe shoes, rain gear, extra clothes, and the Scout "Six Essentials." These are the items that help keep each Scout comfortable and prepared. The pack takes care of the group needs like cooking equipment, campfire supplies, and shared materials, so families don't need to worry about bringing those.</p>
 									</div>
 
 									<div class="paragraph-title">What are the Scout "Six Essentials"?</div>
 									<div class="paragraph-description">
 										<p>The Scout "Six Essentials" are a list of items that every Scout should have on them at all times. They are:</p>
 										<p>
-											<ul>
-												<li>A first aid kit</li>
-												<li>Water bottle</li>
-												<li>Flashlight</li>
-												<li>Trail food</li>
-												<li>Sun protection</li>
+											<ul style="list-style-type: number;">
+												<li>Filled water bottle</li>
+												<li>First-aid kit</li>
 												<li>Whistle</li>
+												<li>Flashlight</li>
+												<li>Sun protection</li>
+												<li>Trail food</li>
 											</ul>
 										</p>
 									</div>
