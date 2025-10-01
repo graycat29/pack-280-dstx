@@ -64,7 +64,7 @@
 					</div>
 					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
 						<div class="card">
-							<div class="title">Flags Over Dipping Contact</div>
+							<div class="title">Flags Over Dripping Contact</div>
 							<div class="description">Phoenix Hudson Duff - <a href="mailto:npgduff@gmail.com">npgduff@gmail.com</a> (801) 550-2485</div>
 							<a class="button blue" href="mailto:npgduff@gmail.com" target="_blank">Email</a>
 						</div>
@@ -72,14 +72,24 @@
 					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
 						<div class="card">
 							<div class="title">Steve Matthews Scout Store</div>
-							<div class="description">Your local Scout store in Austin.</div>
+							<div class="description">
+								<p>Your local Scout store in Austin.</p>
+								<p>12500 N Interstate Hwy 35, Austin, TX 78753</p>
+							</div>
 							<a class="button blue" href="https://www.capitolareascouting.org/shop/" target="_blank">Go</a>
 						</div>
 					</div>
 					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
 						<div class="card">
-							<div class="title">Capitol Area Council Resources</div>
-							<div class="description">From our council, a wide variety of tools, forms, and information intended for units, leaders, parents, and Scouts</div>
+							<div class="title">Capitol Area Council: Quick Overview Video</div>
+							<div class="description">From our council, a quick overview of what scouting is all about in Central Texas.</div>
+							<a class="button blue" href="https://www.capitolareascouting.org/join/joincubscouts/cub-scout-basics/" target="_blank">Go</a>
+						</div>
+					</div>
+					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
+						<div class="card">
+							<div class="title">Capitol Area Council: Resources</div>
+							<div class="description">From our council, a wide variety of tools, forms, and information intended for units, leaders, parents, and Scouts.</div>
 							<a class="button blue" href="https://www.capitolareascouting.org/resources/" target="_blank">Go</a>
 						</div>
 					</div>

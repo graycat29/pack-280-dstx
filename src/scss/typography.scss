@@ -152,6 +152,9 @@ a {
     &.currency {
         background: darken($currency, 10%);
     }
+    &.currency-darken {
+        background: darken($currency, 20%);
+    }
     &.cub-scout-blue {
         background: $cub-scout-blue;
     }
@@ -163,6 +166,9 @@ a {
     }
     &.lavender {
         background: $lavender;
+    }
+    &.brown {
+        background: $brown;
     }
     &.coal {
         background: $coal;

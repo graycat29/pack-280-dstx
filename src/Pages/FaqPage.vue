@@ -47,7 +47,7 @@
 									
 									
 									<!-- GENERAL -->
-									<div class="label cub-scout-blue">GENERAL</div>
+									<div class="label coal">GENERAL</div>
 							
 									<div class="paragraph-title">What den would my child be in?</div>
 									<div class="paragraph-description">
@@ -72,11 +72,6 @@
 									<div class="paragraph-title">Do we have to go to a specific school?</div>
 									<div class="paragraph-description">
 										<p>Packs are usually associated with a particular school. Ours is Walnut Springs. But you don't have to go to Walnut Springs to be in pack 280. In fact, a few of our Scouts already go to other schools.</p>
-									</div>
-
-									<div class="paragraph-title">When do we wear uniforms?</div>
-									<div class="paragraph-description">
-										<p>Class A for pack meetings and special events (like a Veteran's Day assembly at the school). We wear class B mostly for den meetings. Sometimes we wear both, like when we go on some campouts and have different kinds of activities.</p>
 									</div>
 
 									<div class="paragraph-title">What are the other packs in the area?</div>
@@ -108,15 +103,15 @@
 									
 									
 									<!-- COST -->
-									<div class="label currency">COST</div>
+									<div class="label currency-darken">COST</div>
 									
 									<div class="paragraph-title">What is cost to join Scouting?</div>
 									<div class="paragraph-description">
-										<p>Our annual dues are $190. This covers council registration, pack expenses, and program costs. Some special trips and high-adventure camps may have additional fees.</p>
+										<p>Our annual dues are $190. This covers council registration, pack expenses, and program costs. Some special trips and high-adventure camps may have additional fees. Families should also plan for the cost of a Scout uniform, which is purchased separately.</p>
 									</div>
 									<div class="paragraph-title">How much is the Scout Life magazine subscription?</div>
 									<div class="paragraph-description">
-										<p>$15 per year.</p>
+										<p>$15 per year and is optional.</p>
 									</div>
 
 									<div class="paragraph-title">Do I need to buy a Scout handbook?</div>
@@ -135,8 +130,13 @@
 
 
 									<!-- UNIFORMS -->
-									<div class="label cub-scout-gold-darken">UNIFORMS</div>
+									<div class="label cub-scout-blue">UNIFORMS</div>
 
+									<div class="paragraph-title">When do we wear uniforms?</div>
+									<div class="paragraph-description">
+										<p>Class A for pack meetings and special events (like a Veteran's Day assembly at the school). We wear class B mostly for den meetings. Sometimes we wear both, like when we go on some campouts and have different kinds of activities.</p>
+									</div>
+									
 									<div class="paragraph-title">How much are the uniforms?</div>
 									<div class="paragraph-description">
 										<p>Please visit the <a href="https://www.capitolareascouting.org/shop/" target="_blank">Steve Matthews Scout Store</a> for the current prices. Uniforms are required, but many families donate gently used gear so younger Scouts can “age up” without extra expense. We often bring this box of goodies to pack meetings, especially near the beginning of each Scouting year.</p>
@@ -153,12 +153,40 @@
 									</div>
 
 
+									<!-- CAMPING -->
+									<div class="label brown">CAMPING</div>
+									<div class="paragraph-title">Can family members come on the campouts?</div>
+									<div class="paragraph-description">
+										<p>We're a traditional (all-boys) pack, but Cub Scouting is a family adventure! Parents camp with their Scouts, and siblings and moms are always welcome at events like campouts, Pinewood Derby, and banquets.</p>
+									</div>
+
+									<div class="paragraph-title">Do I need to supply my own gear?</div>
+									<div class="paragraph-description">
+										<p>For campouts, each Scout and their family should bring their own personal gear — such as a tent, sleeping pad, sleeping bag, mess kit, extra clothes, and the Scout "Six Essentials." These are the items that help keep each Scout comfortable and prepared. The pack takes care of the group needs like cooking equipment, campfire supplies, and shared materials, so families don't need to worry about bringing those.</p>
+									</div>
+
+									<div class="paragraph-title">What are the Scout "Six Essentials"?</div>
+									<div class="paragraph-description">
+										<p>The Scout "Six Essentials" are a list of items that every Scout should have on them at all times. They are:</p>
+										<p>
+											<ul>
+												<li>A first aid kit</li>
+												<li>Water bottle</li>
+												<li>Flashlight</li>
+												<li>Trail food</li>
+												<li>Sun protection</li>
+												<li>Whistle</li>
+											</ul>
+										</p>
+									</div>
+
+
 									<!-- FOD -->
 									<div class="label cub-scout-red">FLAGS OVER DIPPING</div>
 							
 									<div class="paragraph-title">What is the cost to join Flags Over Dripping?</div>
 									<div class="paragraph-description">
-										<p>For just $75 per year, you'll receive a proudly displayed 3' x 5' American flag mounted on a 10' lighted pole, placed at your curb for eight major patriotic holidays:</p>
+										<p>For just $75 per year, subscribers receive a proudly displayed 3' x 5' American flag mounted on a 10' lighted pole, placed at the curb for eight major patriotic holidays:</p>
 										<p>
 											<ul>
 												<li>
@@ -196,34 +224,39 @@
 									<div class="paragraph-title">How does Flags Over Dripping work?</div>
 									<div class="paragraph-description">
 										<ul>
-											<li>A metal sleeve will be installed near your curb, flush with the ground, to hold the flagpole securely.</li>
+											<li>A metal sleeve will be installed near the curb, flush with the ground, to hold the flagpole securely.</li>
 											<li>Our Cub Scouts and volunteers will handle flag delivery, setup, and removal for each holiday.</li>
-											<li>Flags will be placed in the days prior to and removed no later than 48 hours after the holiday - no work on your part!</li>
+											<li>Flags will be placed in the days prior to and removed no later than 48 hours after the holiday.</li>
 										</ul>
 									</div>
 									
-									<div class="paragraph-title">How do I join Flags Over Dripping?</div>
+									<div class="paragraph-title">How does one join Flags Over Dripping?</div>
 									<div class="paragraph-description">
-										<p>1. Send us the following information to <a href="mailto:pack280ds@gmail.com" target="_blank">pack280ds@gmail.com</a></p>
-										<p>
-											<ul>
-												<li>Name</li>
-												<li>Neighborhood</li>
-												<li>PhysicalAddress</li>
-												<li>Email Address</li>
-												<li>Phone Number</li>
-												<li>Amount Paid</li>
-												<li>Date</li>
-											</ul>
-										</p>
-										
-										<p>2. Send your payment via Venmo or PayPal. (If paying via PayPal, please add $3.38 to cover PayPal fees.)</p>
-										<p>
-											<ul>
-												<li>Venmo: @pack280</li>
-												<li>PayPal: <a href="https://paypal.me/CubScoutsPack280?locale.x=en_US" target="_blank">https://paypal.me/CubScoutsPack280?locale.x=en_US</a></li>
-											</ul>
-										</p>
+										<ul style="list-style-type: number;">
+											<li>
+												<p>Send the following information to <a href="mailto:pack280ds@gmail.com" target="_blank">pack280ds@gmail.com</a></p>
+												<p>
+													<ul>
+														<li>Name</li>
+														<li>Neighborhood</li>
+														<li>PhysicalAddress</li>
+														<li>Email Address</li>
+														<li>Phone Number</li>
+														<li>Amount Paid</li>
+														<li>Date</li>
+													</ul>
+												</p>
+											</li>
+											<li>
+												<p>Send payment via Venmo or PayPal. (If paying via PayPal, please add $3.38 to cover PayPal fees.)</p>
+												<p>
+													<ul>
+														<li>Venmo: @pack280</li>
+														<li>PayPal: <a href="https://paypal.me/CubScoutsPack280?locale.x=en_US" target="_blank">https://paypal.me/CubScoutsPack280?locale.x=en_US</a></li>
+													</ul>
+												</p>
+											</li>
+										</ul>
 									</div>
 
 									<div class="paragraph-title">Who do I contact if I have questions?</div>
