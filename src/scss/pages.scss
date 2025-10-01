@@ -594,3 +594,40 @@
         }
     }
 }
+.card {
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: $white;
+    box-shadow: 0 0 1rem rgba($black, 0.1);
+    margin-bottom: 2rem;
+
+    .title {
+        font-family: $sf-pro-display-semibold;
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+        color: $black;
+        margin: 0 0 1.5rem;
+        max-width: 100%;
+    
+        @media(min-width: $media-992) {
+            font-size: 2.2rem;
+            line-height: 2.6rem;
+        }
+        @media(min-width: $media-1200) {
+            font-size: 2.2rem;
+            line-height: 2.6rem;
+        }
+    }
+    .description {
+        font-size: 1rem;
+        line-height: 1.4rem;
+        color: $black;
+        font-family: $sf-pro-text-regular;
+        max-width: 100%;
+
+        @media(min-width: $media-992) {
+            font-size: 1.2rem;
+            line-height: 1.6rem;
+        }
+    }
+}

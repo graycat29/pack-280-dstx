@@ -112,16 +112,25 @@
 									
 									<div class="paragraph-title">What is cost to join Scouting?</div>
 									<div class="paragraph-description">
-										<p>This is the answer.</p>
+										<p>Our annual dues are $190. This covers council registration, pack expenses, and program costs. Some special trips and high-adventure camps may have additional fees.</p>
 									</div>
 									<div class="paragraph-title">How much is the Scout Life magazine subscription?</div>
 									<div class="paragraph-description">
-										<p>This is the answer.</p>
+										<p>$15 per year.</p>
 									</div>
 
 									<div class="paragraph-title">Do I need to buy a Scout handbook?</div>
 									<div class="paragraph-description">
-										<p>This is the answer.</p>
+										<p>The Scout Handbook isn't technically required for a Cub Scout or Scout to participate in the program — you won't be turned away for not having one. However, it is highly recommended.</p>
+										<p>
+											<ul>
+												<li>Reference for Scouts: The handbook lays out all the requirements, adventures, and skills scouts need to work on at each rank. It's designed to be their personal guide, and many scouts enjoy checking things off as they progress.</li>
+												<li>Recordkeeping: It gives scouts a way to track their own progress and achievements, which helps build responsibility and pride in their accomplishments.</li>
+												<li>Consistency: The handbook ensures everyone is on the same page, literally — it's the official source for requirements and helps reduce confusion.</li>
+											</ul>
+										</p>
+										<p>That said, Den Leaders do use them regularly. Leaders often refer to the handbooks when planning activities, verifying requirements, and making sure the scouts are covering the right material. Even if a scout doesn't have their own copy, their leader will often reference it.</p>
+										<p>So while it's not an absolute necessity to participate, having a handbook makes the experience smoother, clearer, and more rewarding for both scouts and families.</p>
 									</div>
 
 
@@ -130,17 +139,17 @@
 
 									<div class="paragraph-title">How much are the uniforms?</div>
 									<div class="paragraph-description">
-										<p>This is the answer.</p>
+										<p>Please visit the <a href="https://www.capitolareascouting.org/shop/" target="_blank">Steve Matthews Scout Store</a> for the current prices. Uniforms are required, but many families donate gently used gear so younger Scouts can “age up” without extra expense. We often bring this box of goodies to pack meetings, especially near the beginning of each Scouting year.</p>
 									</div>
 
 									<div class="paragraph-title">Where do I get the uniforms?</div>
 									<div class="paragraph-description">
-										<p>This is the answer.</p>
+										<p>You can order them online from the <a href="https://www.capitolareascouting.org/shop/" target="_blank">Steve Matthews Scout Store</a> or visit them at 12500 N Interstate Hwy 35, Austin, TX 78753. Many parents have found that visiting in person is the best way to get the best fit and size.</p>
 									</div>
 
 									<div class="paragraph-title">How much are patches and belt loop awards?</div>
 									<div class="paragraph-description">
-										<p>This is the answer.</p>
+										<p>This cost is included in the annual dues.</p>
 									</div>
 
 
@@ -222,7 +231,7 @@
 										<p>
 											<ul>
 												<li>Contact: Phoenix Hudson Duff</li>
-												<li>Email: <a href="mailto:pack280ds@gmail.com" target="_blank">pack280ds@gmail.com</a></li>
+												<li>Email: <a href="mailto:npgduff@gmail.com" target="_blank">npgduff@gmail.com</a></li>
 												<li>Text: 801-550-2485</li>
 											</ul>
 										</p>
