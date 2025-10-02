@@ -68,7 +68,7 @@
 					<div class="col-lg-12">
 						<div class="title">About Pack 280</div>
 						<div class="description">Pack 280 is unique to be the only all-boys Cub Scout pack in the area. For families looking for other options, there are also mixed-gender packs nearby—but 280 offers a traditional, boy-focused experience with strong leadership, close friendships, and a strong sense of camaraderie.</div>
-						<router-link class="button red" to="/history">Read About Our History</router-link>
+						<router-link class="button red" to="/about">Read More</router-link>
 					</div>
 				</div>
 			</div>
@@ -85,7 +85,7 @@
 						<div class="info">
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>September 13, 2025</span>
+								<span>September 13-14, 2025</span>
 								<span>Local Campout</span>
 							</div>
 							<div class="label-line"></div>
@@ -96,7 +96,7 @@
 							<div class="label-line"></div>
 							<div class="subtitle">
 								<span>October 17-19, 2025</span>
-								<span>Camp Tahuaya</span>
+								<span>Camp Tahuaya Campout</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
@@ -110,8 +110,8 @@
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>February 7, 2026</span>
-								<span>Houston Science Museum Campout (Save The Date)</span>
+								<span>February 7-8, 2026</span>
+								<span>Houston Science Museum Campout (TBD / Save The Date)</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
@@ -120,8 +120,8 @@
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>April 11, 2026</span>
-								<span>NASA Space Center Houston Campout (Save The Date)</span>
+								<span>April 11-12, 2026</span>
+								<span>NASA Space Center Houston Campout (TBD / Save The Date)</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
