@@ -193,7 +193,7 @@
 
 
 									<!-- FOD -->
-									<div class="label cub-scout-red">FLAGS OVER DIPPING</div>
+									<div class="label cub-scout-red">FLAGS OVER DRIPPING</div>
 							
 									<div class="paragraph-title">What is the cost to join Flags Over Dripping?</div>
 									<div class="paragraph-description">
