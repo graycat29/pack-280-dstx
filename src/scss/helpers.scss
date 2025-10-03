@@ -1,0 +1,181 @@
+// ----------------------------------------------------------------
+	// Helpers
+// -----------------------------------------------------------------
+
+
+// Visibility
+
+.hidden {
+	display: none;
+}
+.collapse {
+    visibility: hidden;
+}
+.disabled {
+    opacity: 0.3;
+    pointer-events: none;
+}
+
+
+// Images
+
+img {
+    max-width: 100%;
+}
+.image-at-bottom {
+	margin-bottom: 2rem;
+}
+#FaqPage {
+
+	img {
+		margin-bottom: 1rem;
+	}
+}
+
+
+// Spacing
+
+.row-spacing {
+	margin-bottom: 2rem;
+}
+.nudge-down {
+    margin-top: 0;
+    align-self: auto;
+
+    @media(min-width: $media-768) {
+        margin-top: 4rem;
+        align-self: flex-start;
+    }
+    @media(min-width: $media-992) {
+        margin-top: 0;
+        align-self: auto;
+    }
+}
+.align-center {
+
+	.title {
+		text-align: center;
+	}
+	.description {
+		text-align: center;
+	}
+}
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+.snap-to-help-section {
+    position: relative;
+    top: -1.5rem;
+
+    @media(min-width: $media-576) {
+        top: -5rem;
+    }
+}
+
+
+// Backgrounds
+
+.dark-bg {
+	background: linear-gradient(
+		to bottom,
+		$abyss,
+		$ink
+	);
+
+    .title {
+        color: $white !important;
+    }
+    .subtitle {
+        color: darken($white, 30%) !important;
+
+		span {
+			color: $white !important;
+		}
+    }
+    .description {
+        color: darken($white, 20%) !important;
+    }
+	.label-text {
+		color: darken($white, 20%) !important;
+	}
+	.label-line {
+		background-color: rgba($white, 0.3) !important;
+		outline: transparent !important;
+
+		@media(min-width: $media-768) {
+			background-color: rgba($white, 0.5) !important;
+		}
+	}
+}
+.light-bg {
+	background: linear-gradient(
+		to bottom,
+		$light-bg,
+		$light-bg-bottom
+	);
+}
+.blue-bg {
+	background: $cub-scout-blue;
+
+	.title {
+        color: $white !important;
+    }
+	.description {
+        color: $white !important;
+		opacity: 0.8;
+    }
+}
+.light-blue-bg {
+	background: linear-gradient(
+		to bottom,
+		lighten($cub-scout-blue, 45%),
+		lighten($cub-scout-blue, 35%)
+	);
+	
+	.title {
+        color: $cub-scout-blue !important;;
+    }
+    .description {
+        color: $cub-scout-blue !important;
+    }
+}
+.cub-scout-blue-bg {
+	background: linear-gradient(
+		to bottom,
+		lighten($cub-scout-blue, 55%),
+		lighten($cub-scout-blue, 45%)
+	);
+	
+	.title {
+        color: darken($cub-scout-blue, 20%) !important;;
+    }
+    .description {
+        color: darken($cub-scout-blue, 20%) !important;
+    }
+}
+.cub-scout-red-bg {
+	background: linear-gradient(
+		to bottom,
+		darken($cub-scout-blue, 5%),
+		darken($cub-scout-red, 5%)
+	);
+
+	.title {
+        color: $white !important;
+    }
+	.subtitle {
+        color: $white !important;
+    }
+	.description {
+        color: $white !important;
+    }
+}
+
+
+// Misc
+
+form {
+	position: relative;
+	line-height: 0;
+}

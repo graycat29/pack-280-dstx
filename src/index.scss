@@ -1,0 +1,48 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@font-face {
+	font-family: 'sfProDisplayRegular';
+	src:  url('fonts/sf-pro-display-regular.woff2') format('woff2'),
+        url('fonts/sf-pro-display-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'sfProDisplaySemibold';
+	src:  url('fonts/sf-pro-display-semibold.woff2') format('woff2'),
+        url('fonts/sf-pro-display-semibold.woff') format('woff');
+}
+@font-face {
+	font-family: 'sfProDisplayBold';
+	src:  url('fonts/sf-pro-display-bold.woff2') format('woff2'),
+        url('fonts/sf-pro-display-bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'sfProTextLight';
+	src:  url('fonts/sf-pro-text-light.woff2') format('woff2'),
+        url('fonts/sf-pro-text-light.woff') format('woff');
+}
+@font-face {
+	font-family: 'sfProTextRegular';
+	src:  url('fonts/sf-pro-text-regular.woff2') format('woff2'),
+        url('fonts/sf-pro-text-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'sfProTextSemibold';
+	src:  url('fonts/sf-pro-text-semibold.woff2') format('woff2'),
+        url('fonts/sf-pro-text-semibold.woff') format('woff');
+}
+@font-face {
+	font-family: 'sfProTextBold';
+	src:  url('fonts/sf-pro-text-bold.woff2') format('woff2'),
+        url('fonts/sf-pro-text-bold.woff') format('woff');
+}
+
+@import "scss/variables";
+@import "scss/animations";
+@import "scss/basic";
+@import "scss/navigation";
+@import "scss/pages";
+@import "scss/lists";
+@import "scss/typography";
+@import "scss/buttons";
+@import "scss/helpers";
+@import "scss/forms";

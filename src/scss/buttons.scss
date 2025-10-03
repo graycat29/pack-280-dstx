@@ -1,0 +1,51 @@
+// ----------------------------------------------------------------
+	// Buttons
+// -----------------------------------------------------------------
+
+
+// Basic
+
+.button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-self: center;
+	padding: 0.8rem 1.5rem;
+	font-size: 1.2rem;
+	line-height: 1.6rem;
+	font-family: $sf-pro-text-bold;
+	text-align: center;
+	border-radius: 1rem;
+	margin: 2rem auto 0;
+	width: auto;
+	max-width: fit-content;
+	border: none;
+
+	&.blue {
+		background: linear-gradient(to bottom right, lighten($cub-scout-blue, 3%), $cub-scout-blue);
+		color: $white !important;
+
+		&:hover {
+			background: linear-gradient(to bottom right, lighten($cub-scout-blue, 6%), lighten($cub-scout-blue, 9%));
+			cursor: pointer;
+		}
+	}
+	&.gold {
+		background: linear-gradient(to bottom right, lighten($cub-scout-gold, 3%), $cub-scout-gold);
+		color: $black !important;
+
+		&:hover {
+			background: linear-gradient(to bottom right, lighten($cub-scout-gold, 6%), lighten($cub-scout-gold, 9%));
+			cursor: pointer;
+		}
+	}
+	&.red {
+		background: linear-gradient(to bottom right, lighten($cub-scout-red, 3%), $cub-scout-red);
+		color: $white !important;
+
+		&:hover {
+			background: linear-gradient(to bottom right, lighten($cub-scout-red, 6%), lighten($cub-scout-red, 9%));
+			cursor: pointer;
+		}
+	}
+}

@@ -1,0 +1,45 @@
+// ----------------------------------------------------------------
+	// Animations
+// -----------------------------------------------------------------
+
+
+// Classes
+
+.animation-pushLeft {
+	animation: pushLeft $ease-in-duration-fast $ease-in-timing-function-slow both;
+}
+.animation-pushRight {
+	animation: pushRight $ease-in-duration-fast $ease-in-timing-function-slow both;
+}
+
+
+// Keyframes
+
+@keyframes show {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes pushLeft {
+	from {
+        opacity: 0;
+		margin-right: -17.5rem;
+    }
+    to {
+        opacity: 1;
+		margin-right: 0;
+    }
+}
+@keyframes pushRight {
+	from {
+        opacity: 1;
+		margin-right: 0;
+    }
+    to {
+        opacity: 0;
+		margin-right: -17.5rem;
+    }
+}

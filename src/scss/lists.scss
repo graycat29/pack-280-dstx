@@ -1,0 +1,50 @@
+// ----------------------------------------------------------------
+	// Lists
+// -----------------------------------------------------------------
+
+ul {
+    padding: 0;
+    list-style: none;
+    margin-bottom: 0;
+
+    li {
+        font-family: $sf-pro-text-regular !important;
+        margin-bottom: .4rem !important;
+        font-size: 1rem !important;
+
+        &:last-child {
+            margin-bottom: 0 !important;
+        }
+
+        span {
+            display: block;
+        }
+        span:nth-child(1) {
+            font-family: $sf-pro-text-bold;
+        }
+        a {
+            font-family: $sf-pro-text-regular;
+            color: $charcoal;
+
+            &:hover {
+                color: $cub-scout-blue;
+            }
+        }
+    }
+    &.bar {
+        padding-left: 1rem;
+
+        li {
+            padding-left: 1rem;
+            border-left: .1rem solid $charcoal;
+        }
+    }
+    &.number {
+        padding-left: 1.6rem;
+        list-style: decimal;
+
+        li {
+            padding-left: .5rem;
+        }
+    }
+}
