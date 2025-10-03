@@ -2,7 +2,7 @@ name: Deploy Vue.js App to GitHub Pages
 
 on:
   push:
-    branches: [ dev, main, gh-pages ]
+    branches: [ dev, main ]
   pull_request:
     branches: [ main ]
 
@@ -28,7 +28,7 @@ jobs:
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/main' || github.ref == 'refs/heads/gh-pages'
+      if: github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/main'
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./dist
