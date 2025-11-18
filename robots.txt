@@ -1,0 +1,6 @@
+# robots.txt for pack280bsa.org
+User-agent: *
+Allow: /
+
+# Allow sitemap
+Sitemap: https://pack280bsa.org/sitemap.xml
