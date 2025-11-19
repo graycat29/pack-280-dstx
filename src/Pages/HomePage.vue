@@ -111,7 +111,7 @@
 							<div class="label-line"></div>
 							<div class="subtitle">
 								<span>February 7-8, 2026</span>
-								<span>Moody Gardens Rainforest Pyramid Campout (TBD / Save The Date)</span>
+								<span>Moody Gardens Rainforest Pyramid Campout</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
@@ -121,7 +121,7 @@
 							<div class="label-line"></div>
 							<div class="subtitle">
 								<span>March 28-29, 2026</span>
-								<span>McKinney Falls State Park (TBD / Save The Date)</span>
+								<span>McKinney Falls State Park</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
