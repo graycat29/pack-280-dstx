@@ -105,7 +105,7 @@
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>January 25, 2026</span>
+								<span>February 1, 2026</span>
 								<span>Pinewood Derby</span>
 							</div>
 							<div class="label-line"></div>
