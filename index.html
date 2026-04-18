@@ -5,6 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="/favicon.ico">
+    <script>
+      (function () {
+        // GitHub Pages serves 404.html for unknown paths, so restore the
+        // original client-side route after that redirect lands on '/'.
+        var redirectUrl = sessionStorage.getItem('redirectUrl')
+
+        if (!redirectUrl) {
+          return
+        }
+
+        sessionStorage.removeItem('redirectUrl')
+
+        if (redirectUrl !== window.location.href) {
+          window.history.replaceState(null, '', redirectUrl)
+        }
+      })()
+    </script>
   </head>
   <body>
     <div id="app"></div>
