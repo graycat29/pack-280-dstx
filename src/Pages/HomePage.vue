@@ -85,58 +85,63 @@
 						<div class="info">
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>September 13-14, 2025</span>
-								<span>Local Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>September 23, 2025</span>
-								<span>Rain-gutter Regatta</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>October 17-19, 2025</span>
-								<span>Camp Tahuaya Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>November 11, 2025</span>
-								<span>Veterans Day Ceremony at Walnut Springs Elementary</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>February 1, 2026</span>
-								<span>Pinewood Derby</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>February 7-8, 2026</span>
-								<span>Moody Gardens Rainforest Pyramid Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>February 22, 2026</span>
-								<span>Blue & Gold Banquet / AOL Crossover Ceremony</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>March 28-29, 2026</span>
-								<span>McKinney Falls State Park</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>April 24, 2026</span>
-								<span>Founders Day Parade</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
 								<span>May 17, 2026</span>
 								<span>Rank Advancement</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>June 6, 2026</span>
+								<span>June 13, 2026</span>
 								<span>Rocket Launch</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>June 30, 2026</span>
+								<span>America 250 BBQ</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>July 25, 2026</span>
+								<span>Pool Party</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>September 11-13, 2026</span>
+								<span>Lost Pines AOL Invitational Campout</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>October 24-25, 2026</span>
+								<span>Cave Without a Name Campout</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>November 13-15, 2026</span>
+								<span>Pedernales Falls State Park Campout</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>December 12-13, 2026</span>
+								<span>Camp Tom Wooten Campout</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>January 2027</span>
+								<span>TBD</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>February 2027</span>
+								<span>TBD</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>March 2027</span>
+								<span>TBD</span>
+							</div>
+							<div class="label-line"></div>
+							<div class="subtitle">
+								<span>April 2-4, 2027</span>
+								<span>Enchanted Rock Campout</span>
 							</div>
 						</div>
 					</div>
