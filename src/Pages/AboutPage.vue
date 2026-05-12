@@ -34,7 +34,18 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">In the News</div>
-						<div class="description">The Pinewood Derby is one of our Pack's favorite traditions and a beloved Cub Scout event that's been bringing families together since 1953. Scouts build and race their own wooden cars, celebrating creativity, craftsmanship, and friendly competition—while our community and local businesses add special touches that make the day unforgettable for everyone. This is an article about our Pinewood Derby from the Dripping Springs Neighbors magazine.</div>
+						<div class="description">The Pinewood Derby is one of our Pack's favorite traditions and a beloved Cub Scout event that's been bringing families together since 1953. Scouts build and race their own wooden cars, celebrating creativity, craftsmanship, and friendly competition—while our community and local businesses add special touches that make the day unforgettable for everyone. These are articles about our Pinewood Derby from the Dripping Springs Neighbors magazine.</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Section -->
+		<div class="container-fluid">
+			<div class="container section sub-page">
+				<div class="row align-center">
+					<div class="col-12 col-sm-12">
+						<img src="@/assets/story/derby-story-3.jpg" alt="Pinewood Derby Article" class="derby-img">
 					</div>
 				</div>
 			</div>
