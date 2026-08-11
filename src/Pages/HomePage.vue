@@ -221,7 +221,6 @@ export default ({
 		let carouselInterval = null
 
 		const events = [
-			{ date: 'May 17, 2026', name: 'Rank Advancement', endDate: '2026-05-17' },
 			{ date: 'June 13, 2026', name: 'Rocket Launch', endDate: '2026-06-13' },
 			{ date: 'June 30, 2026', name: 'America 250 BBQ', endDate: '2026-06-30' },
 			{ date: 'July 25, 2026', name: 'Pool Party', endDate: '2026-07-25' },
@@ -233,6 +232,7 @@ export default ({
 			{ date: 'February 28, 2027', name: 'Blue and Gold Banquet / AOL Crossover Ceremony', endDate: '2027-02-28' },
 			{ date: 'March 5-7, 2027', name: 'Camp Tahuaya', endDate: '2027-03-07' },
 			{ date: 'April 2-4, 2027', name: 'Enchanted Rock Campout', endDate: '2027-04-04' },
+			{ date: 'May 16, 2027', name: 'Rank Advancement', endDate: '2027-05-16' },
 		]
 
 		const isPast = (event) => {
