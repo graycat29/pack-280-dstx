@@ -89,42 +89,42 @@
 						<div class="info">
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>September 1, 2025</span>
+								<span>September 7, 2026</span>
 								<span>Labor Day</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>November 11, 2025</span>
+								<span>November 11, 2026</span>
 								<span>Veterans Day</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>January 19, 2026</span>
+								<span>January 18, 2027</span>
 								<span>MLK Day</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>February 16, 2026</span>
+								<span>February 15, 2027</span>
 								<span>Presidents Day</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>May 25, 2026</span>
+								<span>May 31, 2027</span>
 								<span>Memorial Day</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>June 14, 2026</span>
+								<span>June 14, 2027</span>
 								<span>Flag Day</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>June 19, 2026</span>
+								<span>June 19, 2027</span>
 								<span>Juneteenth</span>
 							</div>
 							<div class="label-line"></div>
 							<div class="subtitle">
-								<span>July 4, 2026</span>
+								<span>July 4, 2027</span>
 								<span>Independence Day</span>
 							</div>
 						</div>

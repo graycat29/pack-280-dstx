@@ -200,31 +200,35 @@
 										<p>
 											<ul>
 												<li>
-													<span>November 11, 2025</span>
+													<span>September 7, 2026</span>
+													<span>Labor Day</span>
+												</li>
+												<li>
+													<span>November 11, 2026</span>
 													<span>Veterans Day</span>
 												</li>
 												<li>
-													<span>January 19, 2026</span>
+													<span>January 18, 2027</span>
 													<span>MLK Day</span>
 												</li>
 												<li>
-													<span>February 16, 2026</span>
+													<span>February 15, 2027</span>
 													<span>Presidents Day</span>
 												</li>
 												<li>
-													<span>May 25, 2026</span>
+													<span>May 31, 2027</span>
 													<span>Memorial Day</span>
 												</li>
 												<li>
-													<span>June 14, 2026</span>
+													<span>June 14, 2027</span>
 													<span>Flag Day</span>
 												</li>
 												<li>
-													<span>June 19, 2026</span>
+													<span>June 19, 2027</span>
 													<span>Juneteenth</span>
 												</li>
 												<li>
-													<span>July 4, 2026</span>
+													<span>July 4, 2027</span>
 													<span>Independence Day</span>
 												</li>
 											</ul>
