@@ -83,66 +83,13 @@
 						<div class="title">What Scouts Get To Do</div>
 						<div class="description">Adventure is at the heart of Scouting! Our pack goes on incredible trips and activities that kids will never forget. We've had the chance to spend the night at NASA's Space Center Houston—where Scouts sleep under the space shuttle, beside a Falcon 9 rocket, or even near an Apollo capsule—as well as aboard the historic USS Lexington aircraft carrier. Every year we race in the Pinewood Derby and Rain-gutter Regatta, launch rockets, and camp throughout the Texas Hill Country. Camp Tahuaya is another highlight—where Scouts can try BB guns, archery, slingshots, fishing, kayaking, and so much more. Here's a little bit of what we're doing this year:</div>
 						<div class="info">
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>May 17, 2026</span>
-								<span>Rank Advancement</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>June 13, 2026</span>
-								<span>Rocket Launch</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>June 30, 2026</span>
-								<span>America 250 BBQ</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>July 25, 2026</span>
-								<span>Pool Party</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>September 11-13, 2026</span>
-								<span>Lost Pines AOL Invitational Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>October 24-25, 2026</span>
-								<span>Cave Without a Name Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>November 13-15, 2026</span>
-								<span>Pedernales Falls State Park Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>December 12-13, 2026</span>
-								<span>Camp Tom Wooten Campout</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>January 2027</span>
-								<span>TBD</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>February 2027</span>
-								<span>TBD</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>March 2027</span>
-								<span>TBD</span>
-							</div>
-							<div class="label-line"></div>
-							<div class="subtitle">
-								<span>April 2-4, 2027</span>
-								<span>Enchanted Rock Campout</span>
-							</div>
+							<template v-for="event in events" :key="event.date">
+								<div class="label-line" :class="{ past: isPast(event) }"></div>
+								<div class="subtitle" :class="{ past: isPast(event) }">
+									<span>{{ event.date }}</span>
+									<span>{{ event.name }}</span>
+								</div>
+							</template>
 						</div>
 					</div>
 				</div>
@@ -272,6 +219,29 @@ export default ({
 		const store = useStore()
 		const currentImageIndex = ref(0)
 		let carouselInterval = null
+
+		const events = [
+			{ date: 'May 17, 2026', name: 'Rank Advancement', endDate: '2026-05-17' },
+			{ date: 'June 13, 2026', name: 'Rocket Launch', endDate: '2026-06-13' },
+			{ date: 'June 30, 2026', name: 'America 250 BBQ', endDate: '2026-06-30' },
+			{ date: 'July 25, 2026', name: 'Pool Party', endDate: '2026-07-25' },
+			{ date: 'September 11-13, 2026', name: 'Lost Pines AOL Invitational Campout', endDate: '2026-09-13' },
+			{ date: 'October 24-25, 2026', name: 'Cave Without a Name Campout', endDate: '2026-10-25' },
+			{ date: 'November 13-15, 2026', name: 'Pedernales Falls State Park Campout', endDate: '2026-11-15' },
+			{ date: 'December 12-13, 2026', name: 'Camp Tom Wooten Campout', endDate: '2026-12-13' },
+			{ date: 'January 24, 2027', name: 'Pinewood Derby', endDate: '2027-01-24' },
+			{ date: 'February 28, 2027', name: 'Blue and Gold Banquet / AOL Crossover Ceremony', endDate: '2027-02-28' },
+			{ date: 'March 5-7, 2027', name: 'Camp Tahuaya', endDate: '2027-03-07' },
+			{ date: 'April 2-4, 2027', name: 'Enchanted Rock Campout', endDate: '2027-04-04' },
+		]
+
+		const isPast = (event) => {
+			const today = new Date()
+			today.setHours(0, 0, 0, 0)
+			const [year, month, day] = event.endDate.split('-').map(Number)
+			const end = new Date(year, month - 1, day)
+			return end < today
+		}
 		
 		// Carousel images with imported image paths
 		const carouselImages = ref([
@@ -365,6 +335,8 @@ export default ({
 		})
 
 		return {
+			events,
+			isPast,
 			currentImageIndex,
 			carouselImages,
 			goToImage,
@@ -484,5 +456,15 @@ export default ({
 	.control-btn.next {
 		right: 15px;
 	}
+}
+.info .subtitle.past {
+	opacity: 0.4;
+	color: #6b6b6b;
+}
+.info .subtitle.past span {
+	color: inherit;
+}
+.info .label-line.past {
+	opacity: 0.25;
 }
 </style>

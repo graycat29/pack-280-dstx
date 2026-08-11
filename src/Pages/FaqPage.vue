@@ -76,7 +76,6 @@
 
 									<div class="paragraph-title">What are the other packs in the area?</div>
 									<div class="paragraph-description">
-										<p>If you are looking for a mixed-gender pack, you might want to check out the following packs:</p>
 										<p>
 											<ul>
 												<li>
@@ -168,7 +167,7 @@
 									<div class="label brown">CAMPING</div>
 									<div class="paragraph-title">Can family members come on the campouts?</div>
 									<div class="paragraph-description">
-										<p>We're a traditional (all-boys) pack, but Cub Scouting is a family adventure! Parents camp with their Scouts, and siblings and moms are always welcome at events like campouts, Pinewood Derby, and banquets.</p>
+										<p>Cub Scouting is a family adventure! Parents camp with their Scouts, and siblings and moms are always welcome at events like campouts, Pinewood Derby, and banquets.</p>
 									</div>
 
 									<div class="paragraph-title">Do I need to supply my own gear?</div>
