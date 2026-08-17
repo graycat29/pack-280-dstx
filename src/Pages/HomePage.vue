@@ -225,6 +225,7 @@ export default ({
 			{ date: 'June 30, 2026', name: 'America 250 BBQ', endDate: '2026-06-30' },
 			{ date: 'July 25, 2026', name: 'Pool Party', endDate: '2026-07-25' },
 			{ date: 'September 11-13, 2026', name: 'Lost Pines AOL Invitational Campout', endDate: '2026-09-13' },
+			{ date: 'September 26, 2026', name: 'Reimers Ranch Park Day Hike', endDate: '2026-09-26' },
 			{ date: 'October 24-25, 2026', name: 'Cave Without a Name Campout', endDate: '2026-10-25' },
 			{ date: 'November 13-15, 2026', name: 'Pedernales Falls State Park Campout', endDate: '2026-11-15' },
 			{ date: 'December 12-13, 2026', name: 'Camp Tom Wooten Campout', endDate: '2026-12-13' },
