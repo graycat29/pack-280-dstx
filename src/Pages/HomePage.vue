@@ -212,6 +212,8 @@ import mainImage20 from '@/assets/home/main-image-20.jpg'
 import mainImage21 from '@/assets/home/main-image-21.jpg'
 import mainImage22 from '@/assets/home/main-image-22.jpg'
 import mainImage23 from '@/assets/home/main-image-23.jpg'
+import mainImage24 from '@/assets/home/main-image-24.jpg'
+import mainImage25 from '@/assets/home/main-image-25.jpg'
 
 export default ({
 	name: 'HomePage',
@@ -246,6 +248,8 @@ export default ({
 		
 		// Carousel images with imported image paths
 		const carouselImages = ref([
+			{ src: mainImage24, alt: 'Cub Scout Pack 280 Image 24' },
+			{ src: mainImage25, alt: 'Cub Scout Pack 280 Image 25' },
 			{ src: mainImage23, alt: 'Cub Scout Pack 280 Image 23' },
 			{ src: mainImage5, alt: 'Cub Scout Pack 280 Image 5' },
 			{ src: mainImage17, alt: 'Cub Scout Pack 280 Image 17' },
