@@ -51,7 +51,7 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">What Scouting Is All About</div>
-						<div class="description">Cub Scouting is where adventure, learning, and family come together. Boys in grades K-5 join age-based “dens,” each with their own activities and achievements. Along the way, Scouts learn practical skills, responsibility, and leadership while having fun with friends. What makes Cub Scouts unique is that it's family-oriented—parents, siblings, and grandparents are always welcome to join in the fun, from den meetings to campouts under the Texas stars.</div>
+						<div class="description">Cub Scouting is where adventure, learning, and family come together. Boys and girls in grades K-5 join age-based “dens,” each with their own activities and achievements. Along the way, Scouts learn practical skills, responsibility, and leadership while having fun with friends. What makes Cub Scouts unique is that it's family-oriented—parents, siblings, and grandparents are always welcome to join in the fun, from den meetings to campouts under the Texas stars.</div>
 					</div>
 				</div>
 				<!-- <div class="row align-items-start">
@@ -67,7 +67,7 @@
 				<div class="row align-center">
 					<div class="col-lg-12">
 						<div class="title">About Pack 280</div>
-						<div class="description">Pack 280 is unique to be the only all-boys Cub Scout pack in the area. For families looking for other options, there are also mixed-gender packs nearby—but 280 offers a traditional, boy-focused experience with strong leadership, close friendships, and a strong sense of camaraderie.</div>
+						<div class="description">Pack 280 is a family pack that welcomes both boys and girls. We offer a traditional Cub Scout experience with strong leadership, close friendships, and a strong sense of camaraderie—adventure the whole family can share.</div>
 						<router-link class="button red" to="/about">Read More</router-link>
 					</div>
 				</div>
