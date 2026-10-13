@@ -51,7 +51,7 @@
 					<div class="col-12 col-sm-6 col-md-4 col-lg-4">
 						<div class="card">
 							<div class="title">Photo & Video Release Form</div>
-							<div class="description">To give the pack permission to use your child's photo and/or video in pack digital media such as this webiste.</div>
+							<div class="description">To give the pack permission to use your child's photo and/or video in pack digital media such as this website.</div>
 							<a class="button blue" href="/downloads/photo-video-release-form.pdf" download="photo-video-release-form.pdf">Download</a>
 						</div>
 					</div>
