@@ -210,11 +210,11 @@ import mainImage18 from '@/assets/home/main-image-18.jpg'
 import mainImage19 from '@/assets/home/main-image-19.jpg'
 import mainImage20 from '@/assets/home/main-image-20.jpg'
 import mainImage21 from '@/assets/home/main-image-21.jpg'
-import mainImage22 from '@/assets/home/main-image-22.jpg'
 import mainImage23 from '@/assets/home/main-image-23.jpg'
 import mainImage24 from '@/assets/home/main-image-24.jpg'
 import mainImage25 from '@/assets/home/main-image-25.jpg'
 import mainImage26 from '@/assets/home/main-image-26.jpg'
+import mainImage27 from '@/assets/home/main-image-27.jpg'
 
 export default ({
 	name: 'HomePage',
@@ -250,6 +250,7 @@ export default ({
 		
 		// Carousel images with imported image paths
 		const carouselImages = ref([
+			{ src: mainImage27, alt: 'Cub Scout Pack 280 Image 27' },
 			{ src: mainImage26, alt: 'Cub Scout Pack 280 Image 26' },
 			{ src: mainImage24, alt: 'Cub Scout Pack 280 Image 24' },
 			{ src: mainImage25, alt: 'Cub Scout Pack 280 Image 25' },
@@ -271,7 +272,6 @@ export default ({
 			{ src: mainImage19, alt: 'Cub Scout Pack 280 Image 19' },
 			{ src: mainImage15, alt: 'Cub Scout Pack 280 Image 15' },
 			{ src: mainImage3, alt: 'Cub Scout Pack 280 Image 3' },
-			{ src: mainImage22, alt: 'Cub Scout Pack 280 Image 22' },
 			{ src: mainImage20, alt: 'Cub Scout Pack 280 Image 20' },
 			{ src: mainImage21, alt: 'Cub Scout Pack 280 Image 21' },
 			{ src: mainImage8, alt: 'Cub Scout Pack 280 Image 8' },
