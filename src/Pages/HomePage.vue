@@ -233,10 +233,12 @@ export default ({
 			{ date: 'November 8, 2026', name: 'Raingutter Regatta', endDate: '2026-11-08' },
 			{ date: 'November 13-15, 2026', name: 'Pedernales Falls State Park Campout', endDate: '2026-11-15' },
 			{ date: 'December 12-13, 2026', name: 'Camp Tom Wooten Campout', endDate: '2026-12-13' },
-			{ date: 'January 24, 2027', name: 'Pinewood Derby', endDate: '2027-01-24' },
+			{ date: 'January 23-24, 2027', name: 'NASA Houston Space Center (Option 1)', endDate: '2027-01-24' },
+			{ date: 'January 31, 2027', name: 'Pinewood Derby', endDate: '2027-01-31' },
 			{ date: 'February 28, 2027', name: 'Blue and Gold Banquet / AOL Crossover Ceremony', endDate: '2027-02-28' },
 			{ date: 'March 5-7, 2027', name: 'Camp Tahuaya', endDate: '2027-03-07' },
 			{ date: 'April 2-4, 2027', name: 'Enchanted Rock Campout', endDate: '2027-04-04' },
+			{ date: 'April 10-11, 2027', name: 'NASA Houston Space Center (Option 2)', endDate: '2027-04-11' },
 			{ date: 'May 16, 2027', name: 'Rank Advancement', endDate: '2027-05-16' },
 		]
 
