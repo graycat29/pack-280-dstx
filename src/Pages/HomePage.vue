@@ -215,6 +215,7 @@ import mainImage24 from '@/assets/home/main-image-24.jpg'
 import mainImage25 from '@/assets/home/main-image-25.jpg'
 import mainImage26 from '@/assets/home/main-image-26.jpg'
 import mainImage27 from '@/assets/home/main-image-27.jpg'
+import mainImage28 from '@/assets/home/main-image-28.jpg'
 
 export default ({
 	name: 'HomePage',
@@ -230,7 +231,7 @@ export default ({
 			{ date: 'September 11-13, 2026', name: 'Lost Pines AOL Invitational Campout', endDate: '2026-09-13' },
 			{ date: 'September 26, 2026', name: 'Reimers Ranch Park Day Hike', endDate: '2026-09-26' },
 			{ date: 'October 24-25, 2026', name: 'Cave Without a Name Campout', endDate: '2026-10-25' },
-			{ date: 'November 8, 2026', name: 'Raingutter Regatta', endDate: '2026-11-08' },
+			{ date: 'November 8, 2026', name: 'Raingutter Regatta (CANCELED - RESCHEDULING)', endDate: '2026-11-08' },
 			{ date: 'November 13-15, 2026', name: 'Pedernales Falls State Park Campout', endDate: '2026-11-15' },
 			{ date: 'December 12-13, 2026', name: 'Camp Tom Wooten Campout', endDate: '2026-12-13' },
 			{ date: 'January 23-24, 2027', name: 'NASA Houston Space Center (Option 1)', endDate: '2027-01-24' },
@@ -252,6 +253,7 @@ export default ({
 		
 		// Carousel images with imported image paths
 		const carouselImages = ref([
+			{ src: mainImage28, alt: 'Cub Scout Pack 280 Image 28' },
 			{ src: mainImage27, alt: 'Cub Scout Pack 280 Image 27' },
 			{ src: mainImage26, alt: 'Cub Scout Pack 280 Image 26' },
 			{ src: mainImage24, alt: 'Cub Scout Pack 280 Image 24' },
